@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px 50px; /* Add padding on the left and right */
+  }
+  
+  .footer a {
+    color: black; /* Make text color black */
+    text-decoration: none; /* Remove underline */
+    text-transform: lowercase; /* Convert text to lowercase */
+  }
+  
+  .footer a:hover {
+    color: gray; /* Optional: Change color on hover */
+  }
+  
